@@ -10,8 +10,9 @@
 # See /LICENSE for more information.
 #
 
-name: OpenWrt Builder
+name: Build x86/64 openwrt
 
+# Add a button to tri
 on:
   repository_dispatch:
   workflow_dispatch:
